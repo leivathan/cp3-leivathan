@@ -1,5 +1,5 @@
-# cp02-template
-This repository is a template for computational project 2 in NPRE 247. 
+# cp03-template
+This repository is a template for computational project 3 in NPRE 247. 
 
 ## Resources
 To submit your project, you'll need to learn about git and github. 
@@ -27,7 +27,7 @@ There is a 'report' directory.
 - The report directory must include at least a pdf file.
 
 ## Code Directory
-- There is a 'code' directory. It contains nothing. 
+- There is a 'code' directory. It contains the input template for serpent. 
 - You should place all of your code in this directory.  
 - Don't forget to `git add`  `git commit` and `git push` all of the files you want to include.
 
